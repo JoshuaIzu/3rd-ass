@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: red;
+    padding: 120px;
+    margin-top: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-size: 70px;
+}
+div{
+    background-color: sandybrown;
+    font-size: medium;
+}
+body{
+    background-color: sandybrown;
+}
+.menu{
+    font-size: 20px;
+    text-align: center;
+}
+d
